@@ -1,24 +1,6 @@
-# kitchen-sink-pipeline
+# Kitchen Sink Pipeline
 
-## Project setup
-```
-npm install
-```
+[![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/Tyler-Wentz-Memorial-Fund/kitchen-sink-pipeline)
+[![codecov](https://codecov.io/gh/just-trey/kitchen-sink-pipeline/branch/master/graph/badge.svg)](https://codecov.io/gh/just-trey/kitchen-sink-pipeline)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This project is the repo that holds all the code for my "Kitchen Sink Pipeline" post series on dev.to. Check out the article here: https://dev.to/justtrey/kitchen-sink-pipeline-part-1-local-setup-4iod
