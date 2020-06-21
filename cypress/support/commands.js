@@ -1,3 +1,4 @@
+import "@percy/cypress";
 import "@cypress/code-coverage/support";
 // ***********************************************
 // This example commands.js shows you how to

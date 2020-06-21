@@ -27,3 +27,5 @@ pnpm-debug.log*
 # code coverage directories and files
 .nyc_output
 coverage
+codecov.yaml
+
